@@ -1,3 +1,7 @@
+/**
+ * LinkedList for various operations
+ * Needful for stack
+ */
 package stack;
 import java.util.Scanner;
 public class LinkedList {
